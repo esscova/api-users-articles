@@ -30,8 +30,8 @@ Este projeto implementa uma API utilizando **FastAPI** para gerenciamento de art
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/esscova/web.git
-   cd web/fastapi/crud_usuarios_artigos_jwt
+   https://github.com/esscova/api-users-articles.git
+   cd api-users-articles
    ```
 
 2. Instale as dependências:
